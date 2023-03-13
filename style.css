@@ -1,0 +1,14 @@
+body{ 
+	font-family: 'Eczar', serif; /*Consulta cliente fonte de preferencia*/
+}
+strong{
+	font-weight: bold;
+}
+
+i {
+	font-style: italic;
+}
+.formatoHref{
+	text-decoration: none;
+	color:#000000;
+}
